@@ -21,11 +21,15 @@ chmod +x encrypt.sh decrypt.sh
 
 3. To encrypt a file, use the following syntax:
 ```
-./encrypt.sh <file-to-encrypt> <password> [delete]
+./encrypt.sh <filename> <password> [delete]
 ```
 `[delete]`: This is an optional argument. Include it if you want to securely delete the original file after encryption.
 
 4. To decrypt a file, use the following syntax:
 ```
-./decrypt.sh <file-to-decrypt> <password>
+./decrypt.sh <filename> <password>
 ```
+
+## Example Screenshot:
+
+![](https://github.com/adiimated/locknshred/blob/main/execution.png)
