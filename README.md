@@ -33,3 +33,6 @@ chmod +x encrypt.sh decrypt.sh
 ## Example Screenshot:
 
 ![](https://github.com/adiimated/locknshred/blob/main/execution.png)
+
+Contributions are welcome. Fork the repository and submit a pull request with your enhancements/fixes.
+
